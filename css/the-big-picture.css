@@ -17,5 +17,8 @@ h1 {
   font-weight: 700;
   text-transform: uppercase;
   color: black;
+}
+
+#home {
   padding-top: 100px;
 }
